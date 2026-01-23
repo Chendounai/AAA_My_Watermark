@@ -14,7 +14,7 @@ DEPLOY_DATE = "2026-1-22"
 WELCOME_LINES = [
     f"欢迎使用由 {AUTHOR_NAME} 精心配置的 ComfyUI",
     f"部署日期: {DEPLOY_DATE}",
-    "新版本的ComfyUI，删除大多数老旧插件，保留经典插件和新插件",
+    "新版本的ComfyUI，删除大多数老旧插件，保留经典插件和新插件！",
     "内置hf镜像高速下载模型脚本""
     "这是一个稳定、纯净的绿色环境包。",
     "由衷感谢bilibili@秋葉aaaki",
